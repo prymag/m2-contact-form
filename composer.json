@@ -1,0 +1,22 @@
+{
+    "name": "prymag/module-contactform",
+    "description": "A module to allow displaying contact form using widgets.",
+    "type": "magento2-module",
+    "license": "OSL-3.0",
+    "authors": [
+        {
+            "name": "Mage2Gen",
+            "email": "info@mage2gen.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Prymag\\ContactForm\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}

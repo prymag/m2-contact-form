@@ -1,0 +1,1 @@
+A magento 2 module to allow displaying contact form using widgets.
