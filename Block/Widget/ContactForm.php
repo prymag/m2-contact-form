@@ -8,7 +8,7 @@ use Prymag\ContactForm\Factory\ObjectFactory;
 
 class ContactForm extends \Magento\Contact\Block\ContactForm implements BlockInterface {
 
-    protected $_template = 'Magento_Contact::form.phtml';
+    protected $_template = 'Prymag_ContactForm::form.phtml';
 
     protected $_objectFactory;
 
